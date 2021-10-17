@@ -1,0 +1,22 @@
+.food-tabs-section {
+    padding: 3%;
+}
+.food-items {
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+}
+.food-menu {
+    margin: 30px 0px;
+}
+.food-menu button {
+    border: none;
+    background-color: transparent;
+    padding: 3px 15px;
+    margin: 0 20px;
+}
+
+.btn-menu:active {
+    border-bottom:1px red;
+    color: red;
+}

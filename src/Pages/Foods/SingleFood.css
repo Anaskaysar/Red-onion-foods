@@ -1,0 +1,24 @@
+.food-img {
+    height: 250px;
+    width: 250px;
+    margin: auto;
+}
+
+
+.food-content p {
+    font-size: 15px;
+}
+
+.food-content h3 {
+    font-size: 17px;
+    font-weight: 600;
+}
+.food-content {
+    margin: 0 10px;
+}
+p.food-price {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+
